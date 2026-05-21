@@ -4,7 +4,7 @@
 
 **CPU-First · Ultra-Lightweight · Real-Time Workflow Intelligence**
 
-![System Overview](assets/architecture/system-overview.png)
+![System Overview](assets_new/architecture/system-overview.png)
 
 ---
 
@@ -47,7 +47,7 @@ Sudarshan Nano AI explores a different engineering direction focused on:
 * deployment simplicity,
 * and practical real-world automation.
 
-![Beyond GPU](assets/architecture/beyond-gpu.png)
+![Beyond GPU](assets_new/architecture/beyond-gpu.png)
 
 ---
 
@@ -77,7 +77,7 @@ Instead, the project focuses on:
 * automation-oriented deployment,
 * and real-time edge execution.
 
-![Master of One](assets/architecture/master-of-one.png)
+![Master of One](assets_new/architecture/master-of-one.png)
 
 ---
 
@@ -93,7 +93,7 @@ The broader engineering direction focuses on:
 * Affordable AI infrastructure
 * Distributed operational intelligence
 
-![Deployment Spectrum](assets/architecture/deployment-spectrum.png)
+![Deployment Spectrum](assets_new/architecture/deployment-spectrum.png)
 
 ---
 
@@ -103,7 +103,7 @@ Sudarshan Nano AI explores coordinated lightweight intelligence systems capable 
 
 The focus is highly specialized operational AI models working together with minimal infrastructure overhead.
 
-![Collective Intelligence](assets/architecture/collective-intelligence.png)
+![Collective Intelligence](assets_new/architecture/collective-intelligence.png)
 
 ---
 
@@ -119,7 +119,7 @@ Potential future directions include:
 * offline operational AI,
 * and lightweight embedded inference.
 
-![Embedded Object Intelligence](assets/eoi/embedded-object-intelligence.png)
+![Embedded Object Intelligence](assets_new/eoi/embedded-object-intelligence.png)
 
 ---
 
@@ -127,7 +127,7 @@ Potential future directions include:
 
 Benchmark observations were collected using operational inference workloads executed on consumer-grade hardware.
 
-![Benchmark Environment](assets/benchmarks/benchmark-environment.png)
+![Benchmark Environment](assets_new/benchmarks/benchmark-environment.png)
 
 | Component       | Configuration           |
 | --------------- | ----------------------- |
@@ -144,7 +144,7 @@ Benchmark observations were collected using operational inference workloads exec
 
 The project also explores distributed deployment of multiple lightweight operational AI systems with minimal resource growth.
 
-![Scaling Comparison](assets/benchmarks/scaling-comparison.png)
+![Scaling Comparison](assets_new/benchmarks/scaling-comparison.png)
 
 ---
 
@@ -154,19 +154,19 @@ Multiple leading AI systems independently evaluated the operational characterist
 
 ### ChatGPT (GPT-4o)
 
-![ChatGPT Review](assets/feedback/chatgpt-review.png)
+![ChatGPT Review](assets_new/feedback/chatgpt-review.png)
 
 ### DeepSeek
 
-![DeepSeek Review](assets/feedback/deepseek-performance-review.png)
+![DeepSeek Review](assets_new/feedback/deepseek-performance-review.png)
 
 ### Kimi
 
-![Kimi Review](assets/feedback/kimi-review.png)
+![Kimi Review](assets_new/feedback/kimi-review.png)
 
 ### Qwen
 
-![Qwen Review](assets/feedback/qwen-review.png)
+![Qwen Review](assets_new/feedback/qwen-review.png)
 
 ---
 
@@ -217,7 +217,7 @@ The objective is to explore:
 
 # Creator
 
-![Shailendra](assets/creator/creator-shailendra.jpeg)
+![Shailendra](assets_new/creator/creator-shailendra.jpeg)
 
 ### Shailendra
 
