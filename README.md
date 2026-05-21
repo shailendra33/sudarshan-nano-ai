@@ -180,8 +180,8 @@ The focus is complete operational execution rather than isolated inference syste
 
 # Whitepaper
 
-📄 **Whitepaper PDF:**
-[Download Whitepaper](whitepaper/sudarshan-nano-ai-whitepaper.pdf)
+📄# Whitepaper
+[Download Whitepaper](assets_new/whitepaper/sudarshan-nano-ai-whitepaper.pdf)
 
 The whitepaper includes:
 
